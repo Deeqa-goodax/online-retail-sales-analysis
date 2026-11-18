@@ -6,6 +6,10 @@ This project analyzes an online retail transactional dataset to understand sales
 
 The goal was to transform raw transaction data into meaningful business insights and actionable recommendations through data cleaning, exploratory data analysis, visualization, and reporting.
 
+## Power BI Dashboard Preview
+
+![Online Retail Sales Dashboard](images/online-retail-dashboard.png)
+
 ## Business Objectives
 
 - Evaluate overall sales performance.
